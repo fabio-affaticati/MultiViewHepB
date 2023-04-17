@@ -7,6 +7,7 @@
   - [Installation](#installation)
     - [1 - Download the repository](#1---download-the-repository)
     - [2 - Create a virtual environment](#2---create-a-virtual-environment)
+    - [3 - Install dependencies](#3---install-dependencies)
     - [Requirements](#requirements)
   - [Data](#data)
   - [Citing this work](#citing-this-work)
@@ -43,6 +44,9 @@ run `conda env create -n <env>` to create the `<env>` environment and then activ
 conda create -n <env>
 conda activate <env>
 ```
+
+
+### 3 - Install dependencies
 
 Finally, install required packages with:
 
