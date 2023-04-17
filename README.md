@@ -21,7 +21,7 @@ The high complexity of biological systems arises from the large number of spatia
 
 ### 1 - Download the repository
 
-`git clone https://github.com/.git`
+`git clone https://github.com/fabio-affaticati/MultiModHepB.git`
 
 
 ### 2 - Create a virtual environment
