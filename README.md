@@ -1,3 +1,5 @@
+# MultiViewHepB (Multi-view Hepatitis B vaccine response predictions)
+
 ## Table of Contents
 - [Multi-view learning to unravel the different levels underlying hepatitis B vaccine response](#pydeseq2)
   - [Table of Contents](#table-of-contents)
@@ -21,7 +23,7 @@ The high complexity of biological systems arises from the large number of spatia
 
 ### 1 - Download the repository
 
-`git clone https://github.com/fabio-affaticati/MultiModHepB.git`
+`git clone https://github.com/fabio-affaticati/MultiViewHepB.git`
 
 
 ### 2 - Create a virtual environment
