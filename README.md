@@ -100,6 +100,9 @@ This study relied on data first introduced by [1] and [2]. The datasets can be f
 
 ## References
 
-[1]	E. Bartholomeus et al., ‘Transcriptome profiling in blood before and after hepatitis B vaccination shows significant differences in gene expression between responders and non-responders’,     Vaccine, vol. 36, no. 42, pp. 6282–6289, Oct. 2018, <doi: 10.1016/j.vaccine.2018.09.001>.
+[1]	E. Bartholomeus et al., ‘Transcriptome profiling in blood before and after hepatitis B vaccination shows significant differences in gene 		expression between responders and non-responders’, Vaccine, vol. 36, no. 42, pp. 6282–6289, Oct. 2018, doi: 10.1016/j.vaccine.2018.09.001.
+	<https://pubmed.ncbi.nlm.nih.gov/30205979/>
 
-[2]	G. Elias et al., ‘Preexisting memory CD4 T cells in naïve individuals confer robust immunity upon hepatitis B vaccination’, eLife, vol. 11, p. e68388, Jan. 2022, <doi: 10.7554/eLife.68388>.
+[2]	G. Elias et al., ‘Preexisting memory CD4 T cells in naïve individuals confer robust immunity upon hepatitis B vaccination’, eLife, vol. 11, p. 		e68388, Jan. 2022, doi: 10.7554/eLife.68388.
+	<https://elifesciences.org/articles/68388>
+	
